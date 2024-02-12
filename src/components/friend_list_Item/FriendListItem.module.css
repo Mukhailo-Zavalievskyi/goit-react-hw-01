@@ -1,0 +1,23 @@
+.img {
+  margin: 0 auto;
+  margin-bottom: 15px;
+  width: 75%;
+}
+
+.name {
+  margin-bottom: 10px;
+  font-size: 22px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.statusGreen {
+  font-size: 18px;
+  text-align: center;
+  color: green;
+}
+.statusRed {
+  font-size: 18px;
+  text-align: center;
+  color: red;
+}

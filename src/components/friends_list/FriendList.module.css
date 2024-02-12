@@ -1,0 +1,16 @@
+.list {
+  margin: 0 auto;
+  margin-bottom: 20px;
+  width: 600px;
+  height: auto;
+  display: flex;
+  gap: 10px;
+}
+
+.item {
+  padding: 10px 0 10px;
+  width: 112px;
+  height: auto;
+  border: 3px black solid;
+  border-radius: 15px;
+}
